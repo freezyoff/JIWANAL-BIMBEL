@@ -1,2 +1,3 @@
 # JIWANAL-BIMBEL
-Android client for project JIWANALA. Target bimbel.jiwa-nala.org
+Android client for Git Project JIWANALA. 
+Target url bimbel.jiwa-nala.org
